@@ -1,8 +1,6 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=Jemeljanov&style=flat-square&color=blue" alt=""/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeljanov&count_private=false&langs_count=10&layout=compact)
-
 ## Languages and Tools :
 
 ### Languages :
