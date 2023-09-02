@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=Jemeljanov&style=flat-square&color=blue" alt=""/>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemeljanov&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeljanov&count_private=true&langs_count=10&layout=compact)
 
 ## Languages and Tools :
 
