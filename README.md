@@ -1,9 +1,9 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=Jemeljanov&style=flat-square&color=blue" alt=""/>
 
-### Languages and Tools :
+## Languages and Tools :
 
-## Languages :
+### Languages :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>
 </div>
 
-## Databases :
+### Databases :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
