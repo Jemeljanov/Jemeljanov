@@ -44,7 +44,7 @@
 ### OS used :
 
 <div>
-  <img src="https://www.svgrepo.com/show/354022/macos.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/768px-Icon-Mac.svg.png" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" title="Kali" alt="Kali" width="40" height="40"/>  
 </div>
